@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ru.fadeciness.user.info.service.client.autoconfigure.ExampleClientAutoConfiguration
